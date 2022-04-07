@@ -1,4 +1,4 @@
-# CourseraWeek3
+# Coursera/Introduction to Git and GitHub/Week3
 Qwiklabs Assessment: Introduction to Github
 
 I am editing the README file. Adding some more details about the project description.
